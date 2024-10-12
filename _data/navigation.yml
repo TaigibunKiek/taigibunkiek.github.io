@@ -1,7 +1,9 @@
 main:
   - title: "紹介"
     url: /siaukai/
-  - title: "資料庫"
+  - title: "授權"
+    url: /siukhoan/
+  - title: "資料庫說明"
     url: /chuliaukhoo/
   - title: "年kō"
     url: /niko/

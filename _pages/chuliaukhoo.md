@@ -1,6 +1,6 @@
 ---
 permalink: /chuliaukhoo/
-title: "資料庫"
+title: "資料庫說明"
 toc: true
 ---
 

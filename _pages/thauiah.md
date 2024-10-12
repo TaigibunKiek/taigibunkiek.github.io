@@ -22,7 +22,7 @@ feature_row:
     btn_label: "看資料庫"
     url: "/chuliaukhoo/"
   - image_path: /assets/images/mm-home-feature-2.png
-    title: "來源真多元"
+    title: "文獻真多元"
     excerpt: "內底收錄--ê，lóng是hâm台語相關ê資料，有用日文寫--ê、英文寫--ê、白話字寫--ê、漢字寫--ê等等。"
     btn_class: "btn--info"
     btn_label: "看資料庫"
