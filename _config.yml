@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tâi-gí-bûn Kì-ek, Tâi-bûn Ke-si Mī
 logo: "/assets/images/logo.png"
 # Build settings
-markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 minimal_mistakes_skin: dark
 search: true
 atom_feed:
@@ -56,6 +56,7 @@ plugins:
   - jekyll-include-cache
 
 # markdown render engine.
+markdown: kramdown
 kramdown:
   typographic_symbols:
     ndash: --
