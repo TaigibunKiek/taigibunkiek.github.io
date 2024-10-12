@@ -13,28 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: 台語文記憶。Tâi-gí-bûn Kì-ek
+email: taibunkesimi+taigibunki@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
-search: true
-
+  Tâi-gí-bûn Kì-ek, Tâi-bûn Ke-si Mī
+logo: "/assets/images/logo.png"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
+search: true
+atom_feed:
+  hide: true
+locale: "zh-TW"
+date_format: "%Y"
+
 # Outputting
-permalink: /:categories/:title/
+permalink: /:year/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
+timezone: Asia/Taipei # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -57,36 +55,30 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# markdown render engine.
+kramdown:
+  typographic_symbols:
+    ndash: --
+
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "台語文記憶"
+  avatar: "/assets/images/logo.png"
+  bio: "Tâi-gí-bûn Kì-ek"
   links:
-    - label: "Website"
+    - label: "Tâi-bûn Ke-si Mī 台文雞絲麵"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://linktr.ee/taibunkesimi"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Tâi-bûn Ke-si Mī 台文雞絲麵"
+      icon: "fas fa-fw fa-link"
+      url: "https://linktr.ee/taibunkesimi"
 
+include:
+  - _pages
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -95,9 +87,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      show_date: false
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -106,10 +99,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+      toc_sticky: true
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /hunlui/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /phiaua/
