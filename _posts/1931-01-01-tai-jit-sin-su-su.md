@@ -1,5 +1,5 @@
 ---
-title:  "1931 臺日新辭書 東方孝義 臺灣警察協會"
+title:  "1931 臺日新辭書"
 categories: 
   - Sû-tián
 tags:
@@ -8,4 +8,4 @@ tags:
   - Ji̍t-pún Sî-tāi
 ---
 
-- [1931 臺日新辭書 東方孝義 臺灣警察協會](https://thak.taigi.info/1931TaijitSinSusu/chheh/)
+- [1931 臺日新辭書 東方孝義 臺灣警察協會](https://kiek.taigi.info/1931TaijitSinSusu/)
