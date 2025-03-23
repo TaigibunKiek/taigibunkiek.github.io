@@ -1,13 +1,13 @@
 main:
   - title: "紹介"
     url: /siaukai/
-  - title: "授權"
+  - title: "授權告白"
     url: /siukhoan/
-  - title: "資料庫說明"
+  - title: "看資料庫"
     url: /chuliaukhoo/
   - title: "年kō"
     url: /niko/
-  - title: "分類"
-    url: /hunlui/
-  - title: "標á"
-    url: /phiaua/
+  - title: "路用"
+    url: /looiong/
+  - title: "特色"
+    url: /teksek/

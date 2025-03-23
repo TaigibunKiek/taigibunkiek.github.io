@@ -1,5 +1,5 @@
-title: 台語文記憶。Tâi-gí-bûn Kì-ek
-email: taibunkesimi+taigibunki@gmail.com
+title: 台語文記憶。TÂI-GÍ-BÛN KÌ-EK
+email: taibunkesimi+taigibunkiek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tâi-gí-bûn Kì-ek, Tâi-bûn Ke-si Mī
 logo: "/assets/images/logo.png"
@@ -8,7 +8,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -16,7 +15,6 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: dark
-search: true
 atom_feed:
   hide: true
 locale: "zh-TW"
@@ -24,8 +22,6 @@ date_format: "%Y"
 
 # Outputting
 permalink: /:year/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: Asia/Taipei # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # markdown render engine.
@@ -37,15 +33,15 @@ kramdown:
 author:
   name: "台語文記憶"
   avatar: "/assets/images/logo.png"
-  bio: "Tâi-gí-bûn Kì-ek"
+  bio: "TÂI-GÍ-BÛN KÌ-EK"
   links:
-    - label: "Tâi-bûn Ke-si Mī 台文雞絲麵"
+    - label: "經營單位：台文雞絲麵"
       icon: "fas fa-fw fa-link"
       url: "https://linktr.ee/taibunkesimi"
 
 footer:
   links:
-    - label: "Tâi-bûn Ke-si Mī 台文雞絲麵"
+    - label: "台文雞絲麵 Tâi-bûn Ke-si Mī"
       icon: "fas fa-fw fa-link"
       url: "https://linktr.ee/taibunkesimi"
 
@@ -77,7 +73,12 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /hunlui/
+  path: /looiong/
 tag_archive:
   type: liquid
-  path: /phiaua/
+  path: /teksek/
+
+search: true
+lunr:
+  search_within_pages: true
+  search_full_content: true

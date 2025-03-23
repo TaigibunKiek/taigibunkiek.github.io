@@ -1,6 +1,6 @@
 ---
-title: "分類"
-permalink: /hunlui/
+title: "路用"
+permalink: /looiong/
 layout: categories
 author_profile: true
 ---

@@ -5,15 +5,20 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fa fa-book'></i> 看資料庫"
-      url: "/chuliaukhoo/"
+  # actions:
+  #   - label: "<i class='fa fa-book'></i> 看資料庫"
+  #     url: "/chuliaukhoo/"
 excerpt: >
   收錄台語文豐富ê文獻資料，是咱台灣人寶貴ê記憶！<br />
+  <br />
   <small>「台語文記憶」原始網站（2000~2023）是楊允言教授起--ê。<br />
-  I長期替台灣人收集chiah ê資料，是世間siōng齊全--ê，特別感謝--i。<br />
-  2024年起授權hō͘「Tâi-bûn Ke-si Mī 台文雞絲麵」維護管理。<br />
-  Beh經營管理資料庫真需要資源，請kā阮<a href="https://r.zecz.ec/ZAaP">贊助支持</a>！</small>
+  I長期替台灣人收集、公開chiah ê台語文獻，是世間siōng齊全--ê，特別感謝--i。<br />
+  <br />
+  楊允言教授自2024年起將「台語文記憶」所有ê資料，<br />
+  授權hō͘打狗台語文促進協會「Tâi-bûn Ke-si Mī 台文雞絲麵」專案來維護管理，<br />
+  利便大家利用chiah ê資料，學習、研究台語文。<br />
+  <br />
+  Beh經營管理資料庫真需要資源，請kā阮<a href="https://linktr.ee/taibunkesimi">贊助支持</a>！</small>
 feature_row:
   - image_path: /assets/images/mm-home-feature-1.png
     title: "資料上豐富"

@@ -1,12 +1,12 @@
 ---
 title:  "1931 臺日大辭典"
 categories: 
-  - Sû-tián
+  - 詞典
 tags:
-  - Ji̍t-gí
-  - Tâi-gí Khá-nah
-  - Ji̍t-pún Sî-tāi
+  - 日語
+  - 台語Khá-nah
+  - 日本時代
 ---
 
-- [1931 臺日大辭典 上卷 小川尚義 臺灣總督府](https://kiek.taigi.info/1931TaijitToaSutian1/)
-- [1932 臺日大辭典 下卷 小川尚義 臺灣總督府](https://kiek.taigi.info/1932TaijitToaSutian2/)
+- [1931 臺日大辭典 上卷 小川尚義 臺灣總督府](https://kiek.taigi.info/1931TaijitToaSutian1/){:target="_blank"}
+- [1932 臺日大辭典 下卷 小川尚義 臺灣總督府](https://kiek.taigi.info/1932TaijitToaSutian2/){:target="_blank"}
