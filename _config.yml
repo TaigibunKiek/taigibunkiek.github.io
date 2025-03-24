@@ -78,6 +78,7 @@ tag_archive:
   type: liquid
   path: /teksek/
 
+search: true
 search_provider: google
 lunr:
   search_within_pages: true
