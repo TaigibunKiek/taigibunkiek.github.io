@@ -18,7 +18,7 @@ excerpt: >
   授權hō͘打狗台語文促進協會「Tâi-bûn Ke-si Mī 台文雞絲麵」專案來維護管理，<br />
   利便大家利用chiah ê資料，學習、研究台語文。<br />
   <br />
-  Beh經營管理資料庫真需要資源，請kā阮<a href="https://linktr.ee/taibunkesimi">贊助支持</a>！</small>
+  Beh管理維護需要真chē人力kap時間，請kā阮<a href="https://linktr.ee/taibunkesimi">贊助支持</a>！</small>
 feature_row:
   - image_path: /assets/images/mm-home-feature-1.png
     title: "資料上豐富"
