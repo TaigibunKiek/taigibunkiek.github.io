@@ -2,7 +2,7 @@ title: 台語文記憶 ▸ TÂI-GÍ-BÛN KÌ-EK
 email: taibunkesimi+taigibunkiek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tâi-gí-bûn Kì-ek, Tâi-bûn Ke-si Mī
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo.jpg"
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
@@ -32,7 +32,7 @@ kramdown:
 
 author:
   name: "台語文記憶"
-  avatar: "/assets/images/logo.png"
+  avatar: "/assets/images/logo.jpg"
   bio: "TÂI-GÍ-BÛN KÌ-EK"
   links:
     - label: "經營單位：台文雞絲麵"
@@ -56,12 +56,13 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       show_date: false
       read_time: false
       comments: false
       share: false
       related: true
+      author_profile: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"
@@ -71,6 +72,8 @@ defaults:
       author_profile: true
       toc_sticky: true
 
+og_image: /assets/images/logo.jpg
+
 category_archive:
   type: liquid
   path: /looiong/
@@ -79,9 +82,15 @@ tag_archive:
   path: /teksek/
 
 search: true
-search_provider: google
+# search_provider: google
 lunr:
   search_within_pages: true
   search_full_content: true
-google:
-  search_engine_id: 100bc6f3e0c4f401b
+# google:
+  # search_engine_id: 100bc6f3e0c4f401b
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-HSLRC68Y65"
+    anonymize_ip: false # default
