@@ -1,5 +1,5 @@
 ---
-title:  "1926 Chhut Sí-sòaⁿ (出死線)"
+title: 1926 Chhut Sí-sòaⁿ (出死線)
 categories: 
   - 小說
 tags:

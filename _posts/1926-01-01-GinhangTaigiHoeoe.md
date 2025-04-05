@@ -1,11 +1,12 @@
 ---
-title:  "1926 Chhut Sí-sòaⁿ (出死線)"
+title: 1926 銀行台語會話
 categories: 
-  - 小說
+  - 教材課本
 tags:
-  - 台語白話字
+  - 日語
+  - 台語Khá-nah
+  - 台語漢字
   - 日本時代
-  - Tēⁿ Khe-phòan (鄭溪泮)
 ---
 
-- [1926 Chhut Sí-sòaⁿ (出死線) Tēⁿ Khe-phòan (鄭溪泮)](https://kiek.taigi.info/1926ChhutSisoann/){:target="_blank"}
+- [1926 銀行台語會話 張文典](https://kiek.taigi.info/1926GinhangTaigiHoeoe/){:target="_blank"}

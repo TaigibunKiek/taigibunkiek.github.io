@@ -1,5 +1,5 @@
 ---
-title:  "1922 臺灣語典"
+title: 1922 臺灣語典
 categories: 
   - 教材課本
 tags:

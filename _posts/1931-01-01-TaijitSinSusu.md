@@ -1,5 +1,5 @@
 ---
-title:  "1931 臺日新辭書"
+title: 1931 臺日新辭書
 categories: 
   - 詞典
 tags:
