@@ -8,6 +8,7 @@ tags:
   - 台語漢字
   - 日本時代
   - 臺灣總督府
+  - 警察
 ---
 
 - [1944 臺灣語教科書 臺灣總督府警察官及司獄官練習所](https://kiek.taigi.info/1944TaioangiKaukhosu/){:target="_blank"}
