@@ -3,7 +3,7 @@ title:  "1885 台灣教會公報（Tâi-oân Hú-siâⁿ Kàu-hōe Pò 台灣府
 categories: 
   - 報紙
 tags:
-  - 白話字
+  - 台語白話字
   - 清國時代
   - 日本時代
   - 戰後
