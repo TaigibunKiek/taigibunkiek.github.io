@@ -5,6 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
+  og_image: /assets/images/logo.jpg
   # actions:
   #   - label: "<i class='fa fa-book'></i> 看資料庫"
   #     url: "/chuliaukhoo/"
