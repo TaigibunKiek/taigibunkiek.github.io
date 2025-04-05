@@ -1,7 +1,7 @@
 ---
 title: 1905 臨時臺灣戶口調查職業名字彙
 categories: 
-  - 調査
+  - 調查
 tags:
   - 日語
   - 台語Khá-nah
