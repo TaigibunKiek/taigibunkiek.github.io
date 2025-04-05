@@ -1,8 +1,8 @@
 main:
   - title: "紹介"
     url: /siaukai/
-  - title: "授權告白"
-    url: /siukhoan/
+  - title: "告白"
+    url: /kopeh/
   - title: "看資料庫"
     url: /chuliaukhoo/
   - title: "年kō"
