@@ -1,6 +1,6 @@
 {
-  "name": "MyWebSite",
-  "short_name": "MySite",
+  "name": "台語文記憶 ▸ TÂI-GÍ-BÛN KÌ-EK",
+  "short_name": "台語文記憶",
   "icons": [
     {
       "src": "/web-app-manifest-192x192.png",
