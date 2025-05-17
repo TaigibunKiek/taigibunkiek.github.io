@@ -4,7 +4,7 @@ title: "紹介"
 toc: true
 ---
 
-![](../assets/images/logo.jpg)
+![](../assets/images/logo.png)
 
 ## 紹介「台語文記憶」
 
