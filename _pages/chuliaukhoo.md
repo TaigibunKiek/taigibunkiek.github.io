@@ -8,7 +8,7 @@ toc: true
 
 ## 年kō
 
-照hit ê資料siōng早出版ê年kō來分類。
+照hit ê資料「siōng早出版」ê年kō來分類。
 
 [年kō](/niko/){: .btn .btn--success}
 
