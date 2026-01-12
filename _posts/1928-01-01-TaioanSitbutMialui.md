@@ -10,4 +10,4 @@ tags:
   - 植物
 ---
 
-- [1928 臺灣植物名彙 佐佐木舜一 臺灣博物學會](https://kiek.taigi.info/1926GinhangTaigiHoeoe/){:target="_blank"}
+- [1928 臺灣植物名彙 佐佐木舜一 臺灣博物學會](https://kiek.taigi.info/1928TaioanSitbutMialui/){:target="_blank"}
